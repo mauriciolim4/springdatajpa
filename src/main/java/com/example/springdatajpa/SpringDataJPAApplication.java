@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 @Slf4j
+// teste
 public class SpringDataJPAApplication {
 
   public static void main(String[] args) {
